@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">U1Tema2Android_EjerciciosPropuestos</string>
+    <string name="app_name">Ejercicios Propuestos 2</string>
+    <string name="canciones">Lista de canciones</string>
+    <string name="login">Login</string>
 </resources>
