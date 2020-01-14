@@ -2,4 +2,5 @@
     <string name="app_name">Ejercicios Propuestos 2</string>
     <string name="canciones">Lista de canciones</string>
     <string name="login">Login</string>
+    <string name="lista_de_musicas">lista de musicas</string>
 </resources>

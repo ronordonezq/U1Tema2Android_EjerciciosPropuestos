@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.u1tema2android_ejerciciospropuestos.mirecyclerview.MiRecyclerView;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -15,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ir_lista_canciones(View view) {
-        startActivity(new Intent(this,ListaCanciones.class));
+        startActivity(new Intent(this, MiRecyclerView.class));
     }
 
     public void ir_login(View view) {
